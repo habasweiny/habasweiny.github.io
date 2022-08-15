@@ -6,9 +6,8 @@ layout: post
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css" />
 </head>
-<div class="container">
-<h1>{{ page.title }}</h1>
 <body class="paragraph">
+<h1>{{ page.title }}</h1>
 <p class="paragraph">
   {{ page.date | date_to_string }}
   {% assign author = site.authors | where: 'short_name', page.author | first %}
@@ -16,6 +15,5 @@ layout: post
     - <a href="{{ author.url }}">{{ author.name }}</a>
   {% endif %}
 </p>
-</div>
 </body>
 {{ content }}
