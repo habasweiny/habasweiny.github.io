@@ -1,6 +1,5 @@
 ---
 title: About
 ---
-# About page
 
-This page tells you a little bit about me.
+Hey there! I am just another guy interested in the world around me.
