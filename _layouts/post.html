@@ -6,14 +6,12 @@ layout: post
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="style.css" />
 </head>
-<body class="paragraph">
+<body >
 <h1>{{ page.title }}</h1>
-<p class="paragraph">
   {{ page.date | date_to_string }}
   {% assign author = site.authors | where: 'short_name', page.author | first %}
   {% if author %}
     - <a href="{{ author.url }}">{{ author.name }}</a>
   {% endif %}
-</p>
 </body>
 {{ content }}
