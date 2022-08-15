@@ -2,7 +2,7 @@
 layout: post
 ---
 <h1>{{ page.title }}</h1>
-
+<body class="paragraph">
 <p class="paragraph">
   {{ page.date | date_to_string }}
   {% assign author = site.authors | where: 'short_name', page.author | first %}
@@ -10,5 +10,5 @@ layout: post
     - <a href="{{ author.url }}">{{ author.name }}</a>
   {% endif %}
 </p>
-
+</body>
 {{ content }}
