@@ -46,8 +46,8 @@ li > a:hover {
 .wheel {
   border: 2px solid black;
   border-radius: 50%;
-  margin-left: 250px;
-  position: absolute;
+  margin-left: 0;
+  position: relative;
   height: 55vw;
   width: 55vw;
   max-width: 500px;
