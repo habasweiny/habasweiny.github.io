@@ -256,7 +256,7 @@ a {
   border: 2px solid black;
   border-radius: 50%;
   margin-left: 50px;
-  position: absolute;
+  position: relative;
   height: 55vw;
   width: 55vw;
   max-width: 60px;
@@ -271,7 +271,7 @@ a {
   background-color: black;
   width: 50%;
   height: 2px;
-  position: absolute;
+  position: relative;
   top: 50%;
   left: 50%;
   transform-origin: 0% 0%;
@@ -297,7 +297,7 @@ a {
   background-color: red;
   width: 20%;
   height: 20%;
-  position: absolute;
+  position: relative;
   border: 2px solid;
   transform-origin: 50% 0%;
   animation: cabins 10s ease-in-out infinite;
