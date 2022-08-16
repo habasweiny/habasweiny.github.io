@@ -7,12 +7,12 @@ defaults:
       path: ""
       type: "authors"
     values:
-      layout: "author"
+      layout: "default"
   - scope:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "default"
   - scope:
       path: ""
     values:
