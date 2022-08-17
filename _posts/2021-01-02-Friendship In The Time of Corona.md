@@ -1,5 +1,6 @@
 ---
 author: hamza
+layout: post
 ---
 I used to think that I am an introvert. Well, the pandemic proved me wrong. Maybe it was
 because of the dramatic turn of events after the lockdown measures were implemented. I went
