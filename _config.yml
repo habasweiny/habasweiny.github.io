@@ -18,6 +18,8 @@ defaults:
     values:
       layout: "default"
 remote_theme: pages-themes/hacker@v0.2.0
+title: Amor Fati
+description: This site is for sharing my ideas with the world.
 plugins:
   - jekyll-feed
   - jekyll-sitemap
