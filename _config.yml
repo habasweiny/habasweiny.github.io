@@ -19,7 +19,15 @@ defaults:
       layout: "default"
 remote_theme: pages-themes/hacker@v0.2.0
 remote_theme: pages-themes/time-machine@v0.2.0
-remote_theme: pages-themes/tactile@v0.2.0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
 title: Arabica
 plugins:
   - jekyll-feed
