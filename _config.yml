@@ -20,7 +20,6 @@ defaults:
 remote_theme: pages-themes/hacker@v0.2.0
 remote_theme: pages-themes/time-machine@v0.2.0
 remote_theme: pages-themes/tactile@v0.2.0
-remote_theme: pages-themes/slate@v0.2.0
 title: Arabica
 plugins:
   - jekyll-feed
