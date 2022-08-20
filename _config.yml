@@ -28,7 +28,6 @@ remote_theme: pages-themes/merlot@v0.2.0
 remote_theme: pages-themes/leap-day@v0.2.0
 remote_theme: pages-themes/dinky@v0.2.0
 remote_theme: pages-themes/cayman@v0.2.0
-remote_theme: pages-themes/architect@v0.2.0
 title: Arabica
 plugins:
   - jekyll-feed
