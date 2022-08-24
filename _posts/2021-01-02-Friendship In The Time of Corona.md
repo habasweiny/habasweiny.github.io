@@ -14,6 +14,7 @@ place of friendships in our lives.
 
 > There is this common joke that Jesus’ greatest miracle was having twelve close friends in his
 thirties.
+{:.quote}
 
 There is some truth to it. As we grow older it becomes increasingly hard to make new
 friends. Worse still, it also gets surprisingly easy to lose old ones. Everyone becomes so
