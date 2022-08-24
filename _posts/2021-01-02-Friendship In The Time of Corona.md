@@ -19,7 +19,13 @@ entangled in making strides in their career and their romantic lives that cultiv
 takes a back seat. Friendships become a social blanket that only come in handy when one is
 facing cold trouble in other aspects of their lives. Your friends become backup plans, not
 intentional alliances.
-
+        <blockquote>
+          <hr />
+          <p class="quote">
+            The entire curriculum should be a series of projects
+          </p>
+          <hr />
+        </blockquote>
 But that should not be the case. We meet new people everyday in our lives. We then carefully
 choose to form friendships with some and leave others as mere acquaintances. The criteria we
 use to pick our friends is unique to everyone. Some prefer people with the same interests and
