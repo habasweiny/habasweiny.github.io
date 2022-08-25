@@ -12,16 +12,16 @@ the board games and the daily height-adjusted hugs. I missed these little things
 my friends. But more importantly, I missed my friends. A lot. This got me thinking about the
 place of friendships in our lives.
 
-> There is this common joke that Jesus’ greatest miracle was having twelve close friends in his
-thirties.
-{:.quote}
-
-There is some truth to it. As we grow older it becomes increasingly hard to make new
+There is this common joke that Jesus’ greatest miracle was having twelve close friends in his
+thirties.There is some truth to it. As we grow older it becomes increasingly hard to make new
 friends. Worse still, it also gets surprisingly easy to lose old ones. Everyone becomes so
 entangled in making strides in their career and their romantic lives that cultivating friendships
 takes a back seat. Friendships become a social blanket that only come in handy when one is
 facing cold trouble in other aspects of their lives. Your friends become backup plans, not
 intentional alliances.
+
+> a good number of my friends are
+suspiciously the same height as I am
 
 But that should not be the case. We meet new people everyday in our lives. We then carefully
 choose to form friendships with some and leave others as mere acquaintances. The criteria we
