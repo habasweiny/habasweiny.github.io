@@ -48,6 +48,9 @@ Avicii’s Levels on repeat all day and no one was there to police you. No house
 the dormitory. No hawk-eyed teacher-on-duty to chase you to class. No mum to cajole you to study. At
 the end of the day, you were the one and only judge of how good you spent your day.
 
+> At the university, you could decide to do absolutely nothing but listen to
+Avicii’s Levels on repeat all day.
+
 Friends. Friends are the family we choose. Friends are the family we choose to share the best moments
 of our lives with. Making new friends is one of life’s small pleasures. But in medical school, making
 friends was a survival strategy. Friends simply made life tolerable in one of the most intellectually
