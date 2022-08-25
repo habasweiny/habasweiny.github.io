@@ -22,6 +22,9 @@ for. So, naturally, I just applied for the course that had the highest cut-off p
 MBChB- Bachelor of Medicine and Bachelor of Surgery. That’s how I landed in Chiromo Campus in the
 middle of September 2015, not quite sure of what I was doing but ready for a challenge.
 
+> At the university, you could decide to do absolutely nothing but listen to
+Avicii’s Levels on repeat all day.
+
 There are many words I could use to describe my experience during the first year of medical school.
 Exciting. Confusing. Exhausting. Intense. But there was a common feature that this myriad of
 experiences had: they all smelt of formalin. First-year medical students usually dissect cadavers during
@@ -47,9 +50,6 @@ speed, all mashed up together. At the university, you could decide to do absolut
 Avicii’s Levels on repeat all day and no one was there to police you. No housemaster to kick you out of
 the dormitory. No hawk-eyed teacher-on-duty to chase you to class. No mum to cajole you to study. At
 the end of the day, you were the one and only judge of how good you spent your day.
-
-> At the university, you could decide to do absolutely nothing but listen to
-Avicii’s Levels on repeat all day.
 
 Friends. Friends are the family we choose. Friends are the family we choose to share the best moments
 of our lives with. Making new friends is one of life’s small pleasures. But in medical school, making
