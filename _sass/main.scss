@@ -27,12 +27,11 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 100%;
+  width: 60%;
   max-width: $container-max-width;
   margin: auto;
   border: 3px solid #73AD21;
   color: #00beef;
-  border-radius: 20px;
 }
 .quote {
   color: #00beef;
