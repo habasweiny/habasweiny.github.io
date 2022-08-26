@@ -19,9 +19,8 @@
         <h2 id="desc" >{{ site.description | default: site.github.project_tagline }}</h2>
       </div>
     </header>
-   {% include navigation.html %}
+    <div class="nav">{% include navigation.html %}</div>
    {{ content }}
-    </div>
     <footer>
   <section id="downloads">
           {% if site.show_downloads %}
