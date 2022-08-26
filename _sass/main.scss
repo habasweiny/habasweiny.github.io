@@ -286,3 +286,9 @@ a:active { text-decoration: none; }
 #desc {
   text-align: center;
 }
+
+nav li {
+    display: inline-block;
+    height: 100%;
+    padding: 10px;
+}
