@@ -33,6 +33,8 @@ friends. We should also make a conscious decision to maintain those friendships.
 
 ![trees](https://github.com/habasweiny/habasweiny.github.io/blob/main/assets/images/bkg.png)
 
+![fg](/assets/images/bullet.png)
+
 So how do you maintain friendships? Again all friendships are unique and what makes them last
 are peculiar to each one. But there certain things that cut across the board. Making the effort to
 regularly communicate with your friends is particularly vital. Texting. Calling. Meeting up at the
