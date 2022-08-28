@@ -31,7 +31,7 @@ want to be friends with people who look like them( a good number of my friends a
 suspiciously the same height as I am). But all in all, we make a conscious decision when making
 friends. We should also make a conscious decision to maintain those friendships.
 
-![trees](../images/geedho.png)
+![trees](../images/geedho.JPG)
 
 So how do you maintain friendships? Again all friendships are unique and what makes them last
 are peculiar to each one. But there certain things that cut across the board. Making the effort to
