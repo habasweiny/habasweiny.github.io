@@ -10,7 +10,7 @@ immediate family in a matter of days.
 Suddenly, I missed the hallway jokes, the cheerful lunches,
 the board games and the daily height-adjusted hugs. I missed these little things that we did with
 my friends. But more importantly, I missed my friends. A lot. This got me thinking about the
-place of friendships in our lives.
+place of friendships in our [lives.](https://github.com/habasweiny/habasweiny.github.io/blob/main/assets/images/bkg.png)
 
 There is this common joke that Jesus’ greatest miracle was having twelve close friends in his
 thirties.There is some truth to it. As we grow older it becomes increasingly hard to make new
