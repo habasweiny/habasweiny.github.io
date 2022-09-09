@@ -31,6 +31,7 @@ want to be friends with people who look like them( a good number of my friends a
 suspiciously the same height as I am). But all in all, we make a conscious decision when making
 friends. We should also make a conscious decision to maintain those friendships.
 
+{:.Responsive}
 ![trees](/assets/images/geedho2.JPG)
 
 ![fg](/assets/images/bullet.png)
