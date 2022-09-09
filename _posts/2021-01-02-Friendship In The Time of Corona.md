@@ -32,7 +32,7 @@ suspiciously the same height as I am). But all in all, we make a conscious decis
 friends. We should also make a conscious decision to maintain those friendships.
 
 {:.Responsive}
-![trees](/assets/images/geedho6.JPG)
+![trees](/assets/images/geedho5.JPG)
 
 ![fg](/assets/images/bullet.png)
 
