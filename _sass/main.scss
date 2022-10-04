@@ -47,7 +47,7 @@ section {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  margin: 0 0;
+  margin: 0 0 20px;
 }
 
 li {
@@ -156,7 +156,10 @@ dt {
 }
 
 ul li {
-  
+  padding-left: 2rem;
+  background-position: 0 0;
+  background-size: 1.6rem 1.6rem;
+  background-repeat: no-repeat;
 }
 
 blockquote {
