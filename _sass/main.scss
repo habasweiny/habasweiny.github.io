@@ -213,7 +213,7 @@ hr {
 
 .btn {
   display: inline-block;
-  background: $header;
+  background: $hippie-blue;
   padding: 8px 18px;
   border-radius: 50px;
   border: 2px solid rgba(0, 0, 0, 0.7);
@@ -229,7 +229,7 @@ hr {
 }
 
 .btn:hover {
-  background: $header;
+  background: $hippie-blue;
 }
 
 .btn .icon {
@@ -282,7 +282,7 @@ a:visited { text-decoration: none; }
 
 a:hover { 
   text-decoration: none;
-   border-bottom: 2px solid blue;
+   border-bottom: 2px solid;
 }
 
 
