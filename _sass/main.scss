@@ -45,8 +45,7 @@ header h1 {
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   -webkit-font-smoothing: antialiased;
-  @include media-max-width {
-    margin-left: 0;
+
   }
 }
 
