@@ -15,13 +15,14 @@ $container-max-width: 1000px;
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  background: $body-background url("../images/bkg.png") 0 0;
-  color: $body-foreground;
-  font-size: 22px;
-  line-height: 1.5;
-  font-family: "Times New Roman", Verdana (sans-serif), Arial (sans-serif); 
+max-width: 40em;
+margin: 0 auto;
+padding: 5px;
+font-family: Georgia,serif;
+font-size: 20px;
+line-height: 30px;
+background-color: #000;
+color: #ccc;
 }
 
 /* General & 'Reset' Stuff */
