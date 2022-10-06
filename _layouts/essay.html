@@ -13,14 +13,12 @@
 
   <body>
     <header>
-      <div class="container">
-        <a id="a-title" href="{{ '/' | relative_url }}">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        </a>
-        <h2 id="desc" >{{ site.description | default: site.github.project_tagline }}</h2>
+      <div>
+          <h1 id="a-title">{{ site.title }}</h1>
+        <h2 id="desc" >{{ site.description }}</h2>
       </div>
     </header>
-    <div class="nav">{% include navigation.html %}</div>
+    <div>{% include navigation.html %}</div>
    {{ content }}
   </body>
 </html>
