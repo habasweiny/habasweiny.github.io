@@ -20,9 +20,6 @@ takes a back seat. Friendships become a social blanket that only come in handy w
 facing cold trouble in other aspects of their lives. Your friends become backup plans, not
 intentional alliances.
 
-> a good number of my friends are
-suspiciously the same height as I am
-
 But that should not be the case. We meet new people everyday in our lives. We then carefully
 choose to form friendships with some and leave others as mere acquaintances. The criteria we
 use to pick our friends is unique to everyone. Some prefer people with the same interests and
@@ -30,11 +27,6 @@ outlook in life. Others become friends because they live close to one another. Y
 want to be friends with people who look like them( a good number of my friends are
 suspiciously the same height as I am). But all in all, we make a conscious decision when making
 friends. We should also make a conscious decision to maintain those friendships.
-
-{:.Responsive}
-![trees](/assets/images/mb3.JPG)
-
-![fg](/assets/images/bullet.png)
 
 So how do you maintain friendships? Again all friendships are unique and what makes them last
 are peculiar to each one. But there certain things that cut across the board. Making the effort to
