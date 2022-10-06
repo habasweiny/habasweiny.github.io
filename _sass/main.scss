@@ -27,13 +27,12 @@ header h1 {
   line-height: 1.5;
   margin: 0 auto;
   font-weight: bold;
-  font-family: Georgia (serif), Verdana (sans-serif);
+  font-family: Georgia,serif;
   color: #b5e853;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
-  -webkit-font-smoothing: antialiased;
  
   }
 
@@ -44,6 +43,7 @@ header h2 {
   font-weight: 300;
   color: #666;
   margin: 0 auto;
+  font-family: Georgia,serif;
 }
 
 
