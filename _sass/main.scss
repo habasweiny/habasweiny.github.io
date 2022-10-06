@@ -15,7 +15,6 @@ color: #ccc;
 
 header {
   margin: 0 auto;
-  background: rgba(0, 0, 0, 0.1);
   width: 100%;
   border-bottom: 1px dashed #b5e853;
   padding: 10px 0;
@@ -34,8 +33,7 @@ header h1 {
                0 0 10px rgba(181, 232, 83, 0.1);
   letter-spacing: -1px;
   font-style: italic;
- 
-  }
+ }
 
 
 
@@ -51,7 +49,7 @@ header h2 {
 
 .btn {
   display: inline-block;
-  background: #4744cc ;
+  background: #4c505e ;
   padding: 8px 18px;
   border-radius: 50px;
   border: 2px solid rgba(0, 0, 0, 0.7);
@@ -67,7 +65,7 @@ header h2 {
 }
 
 .current {
-  color: green;
+  color: #b5e853;
 }
 
 a {
