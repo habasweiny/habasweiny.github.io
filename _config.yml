@@ -18,7 +18,7 @@ defaults:
     values:
       layout: "default"
 title: Arabica
-description: Brewing ideas
+description: Brewing ideas.
 plugins:
   - jekyll-feed
   - jekyll-sitemap
