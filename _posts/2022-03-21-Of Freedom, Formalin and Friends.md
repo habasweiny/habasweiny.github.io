@@ -22,9 +22,6 @@ for. So, naturally, I just applied for the course that had the highest cut-off p
 MBChB- Bachelor of Medicine and Bachelor of Surgery. That’s how I landed in Chiromo Campus in the
 middle of September 2015, not quite sure of what I was doing but ready for a challenge.
 
-> At the university, you could decide to do absolutely nothing but listen to
-Avicii’s Levels on repeat all day.
-
 There are many words I could use to describe my experience during the first year of medical school.
 Exciting. Confusing. Exhausting. Intense. But there was a common feature that this myriad of
 experiences had: they all smelt of formalin. First-year medical students usually dissect cadavers during
@@ -69,4 +66,4 @@ were many things I could have done better but I believe I did the best I could w
 at that time. If I had one piece of advice that I could give to my younger self it would be to just take my
 time to learn and grow; it would be okay in the end.
 
-© 2022 <a class="small" href="/about.html">Hamza Haji</a>
+© 2022 <a class="small" href="/about.html">HAMZA HAJI</a>
