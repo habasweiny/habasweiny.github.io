@@ -24,6 +24,3 @@ to join the military when I grew up. Specifically, I
 wanted to be a driver in the army. I loved
 travelling and I thought soldiers looked cool with
 their guns, camouflage and shit. 
-
-
-1/1/22
