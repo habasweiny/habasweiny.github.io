@@ -97,3 +97,8 @@ h1 {
 #icon {
   align-items: center;
 }
+
+img, iframe, audio {
+  max-width: 100%;
+  display: block;
+}
