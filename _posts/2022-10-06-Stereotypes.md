@@ -8,4 +8,4 @@ These are comments by dear friends.
 It usually comes from a place of innocence.
 They do not mean any malice.
 
-<img src="/assets/images/shoes.png">
+<img src="/assets/shoes.jpg">
