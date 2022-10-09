@@ -1,3 +1,7 @@
+---
+author: hamza
+layout: post
+---
 Next time someone asks how old you are,
 answer "14 billion years". It doesn't matter what
 your birth age is. Because that's the correct age
