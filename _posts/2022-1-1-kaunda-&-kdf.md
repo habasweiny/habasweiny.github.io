@@ -1,3 +1,7 @@
+---
+author: hamza
+layout: post
+---
 There are a few questions one might ask about
 this photo of me and my siblings. I'll answer
 one : why was I dressed like I inherited clothes
