@@ -69,4 +69,4 @@ were many things I could have done better but I believe I did the best I could w
 at that time. If I had one piece of advice that I could give to my younger self it would be to just take my
 time to learn and grow; it would be okay in the end.
 
-© 2022 <a class="small" href="/about.html">HAMZA HAJI</a>
+© 2022 <a class="small" href="/about.html">Hamza Haji</a>
