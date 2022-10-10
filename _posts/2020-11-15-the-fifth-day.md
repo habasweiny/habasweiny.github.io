@@ -48,10 +48,15 @@ French and Spanish, the names remained unchanged.
 
 
 
-| Item         | Price | # In stock |
-|--------------|:-----:|-----------:|
-| Juicy Apples |  1.99 |        739 |
-| Bananas      |  1.89 |          6 |
+| PLANETARY WEEK       | LATIN | SPANISH |  FRENCH|
+|--------------|:-----:|-----------:|:----------- |
+| Saturnday |  Dies Saturni |        Sábado |    Samedi          |
+| Sunday     |  Dies Solis |         Domingo |      Dimanche       |
+| Moonday    |  Dies Lunae |         Lunes |         Lundi    |
+| Marsday     |  Dies Martis |          Martes |      Mardi       |
+| Mercuryday     |  Dies Mercuri |         Miércoles |      Mercredi       |
+| Jupiterday     |  Dies lovis |         Jueves |        Jeudi     |
+| Venusday     | Dies Veneris |          Viernes |        Vendredi     |
 
 
 
@@ -69,7 +74,7 @@ their local gods.
 So, there you have it. Have a
 beautifully-named day.
 
-© 2022 HAMZA HAJI
+© 2022 <a class="small" href="/about.html">HAMZA HAJI</a>
 
 
  
