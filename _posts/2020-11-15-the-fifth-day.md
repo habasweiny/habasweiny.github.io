@@ -25,7 +25,7 @@ khaamis or Al-Khamis.
 The two remaining days are named
 after social events. Al-Jumuah (Friday) means congregation (for prayers??) and
 Al-Sabt (Saturday) is named after the Sabbath. The Somali language shamelessly
-plagiarizes this Arabic entire vocabulary. Or it could be that the Arabic
+plagiarizes all of these names. Or it could be that the Arabic
 language is the culprit; no one knows for sure. But the Swahili language,
 despite the influence of Arabic, gets more creative. 
 
