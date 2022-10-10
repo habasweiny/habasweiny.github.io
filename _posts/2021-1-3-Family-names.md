@@ -48,3 +48,5 @@ to my mum's name Milga. However it is
 closer to the Borana name Molu. Both
 Milligan and Molu mean 'bald'._
 
+
+© 2021 <a class="small" href="/about.html">HAMZA HAJI</a>
