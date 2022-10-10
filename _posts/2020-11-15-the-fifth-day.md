@@ -70,7 +70,7 @@ their local gods.
 
  **PLANETARY WEEK** | **MODIFIED**                             
 --------------------|------------------------------------------
- **Moonday**        |                                          
+ **Moonday**        |             -                             
  **Marsday**        | Tiesdag - Tiw's day                      
  **Mercuryday**     | Wodnesdag=Woden's / Ödinn's day         
  **Jupiterday**     | Punresdag \- Thor's day /Thunder's day 
