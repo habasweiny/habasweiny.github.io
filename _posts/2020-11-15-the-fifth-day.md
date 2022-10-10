@@ -68,14 +68,24 @@ their local gods.
 
 
 
-[image]
+ **PLANETARY WEEK** | **MODIFIED**                             
+--------------------|------------------------------------------
+ **Moonday**        |                                          
+ **Marsday**        | Tiesdag = Tiw's day                      
+ **Mercuryday**     | Wodnesdag=Woden's or Ödinn's day         
+ **Jupiterday**     | Punresdag \- Thor's day or Thunder's day 
+ **Venusday**       | Frigedag = Frige's day                   
+ **Saturnday**      | Saturnesdag                              
+ **Sunday**         | Sunnandag                                
+
+
 
 
 
 So, there you have it. Have a
 beautifully-named day.
 
-© 2022 <a class="small" href="/about.html">HAMZA HAJI</a>
+© 2020 <a class="small" href="/about.html">HAMZA HAJI</a>
 
 
  
