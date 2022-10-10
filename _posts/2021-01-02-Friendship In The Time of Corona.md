@@ -38,3 +38,5 @@ adds value to your life. So, prioritize spending time connecting with your frien
 Friendships are to be nurtured. They are not accidents. They don’t just happen. They are actively
 maintained. Curated. Sustained. Like all things in life sometimes friendships fail despite all our
 efforts to salvage it. But that’s okay. Because we live to ‘friend’ another day.
+
+© 2021 <a class="small" href="/about.html">HAMZA HAJI</a>
