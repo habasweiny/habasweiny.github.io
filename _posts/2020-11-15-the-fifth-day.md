@@ -48,15 +48,16 @@ French and Spanish, the names remained unchanged.
 
 
 
-| PLANETARY WEEK       | LATIN | SPANISH |  FRENCH|
-|--------------|:-----:|-----------:|:----------- |
-| Saturnday |  Dies Saturni |        Sábado |    Samedi          |
-| Sunday     |  Dies Solis |         Domingo |      Dimanche       |
-| Moonday    |  Dies Lunae |         Lunes |         Lundi    |
-| Marsday     |  Dies Martis |          Martes |      Mardi       |
-| Mercuryday     |  Dies Mercuri |         Miércoles |      Mercredi       |
-| Jupiterday     |  Dies lovis |         Jueves |        Jeudi     |
-| Venusday     | Dies Veneris |          Viernes |        Vendredi     |
+| PLANETARY WEEK | LATIN        | SPANISH   | FRENCH   |
+|----------------|--------------|-----------|----------|
+| Saturnday      | Dies Saturni | Sábado    | Samedi   |
+| Sunday         | Dies Solis   | Domingo   | Dimanche |
+| Moonday        | Dies Lunae   | Lunes     | Lundi    |
+| Marsday        | Dies Martis  | Martes    | Mardi    |
+| Mercuryday     | Dies Mercuri | Miércoles | Mercredi |
+| Jupiterday     | Dies lovis   | Jueves    | Jeudi    |
+| Venusday       | Dies Veneris | Viernes   | Vendredi |
+
 
 
 
