@@ -23,9 +23,10 @@ vaccine against academic failure.
 
 The vaccine seems to have been working quite
 well so far, though it has been tested to its limits
-by medical school. As a person who'll be a
-doctor in less than a year(InshaAllah), I highly
-recommend this vaccine to your future children
+by medical school. I highly
+recommend this vaccine to your future children.
 
 
 <img src="/assets/images/shoes 1.jpg">
+
+© 2021 <a class="small" href="/about.html">HAMZA HAJI</a>
