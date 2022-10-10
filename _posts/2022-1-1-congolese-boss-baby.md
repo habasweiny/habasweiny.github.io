@@ -6,7 +6,7 @@ There are a few questions one might ask about
 this photo of me and my siblings. I'll answer
 one : why was I dressed like an overworked congolese boss baby? 
 
-![congolese_kaunda](../images/kaunda.jpg)
+![congolese_kaunda](.assets/images/kaunda.jpg)
 
 I always thought mum was responsible. 
 You see, mum was a part-time tailor. One of the 
