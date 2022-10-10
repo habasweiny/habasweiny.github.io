@@ -71,10 +71,10 @@ their local gods.
  **PLANETARY WEEK** | **MODIFIED**                             
 --------------------|------------------------------------------
  **Moonday**        |                                          
- **Marsday**        | Tiesdag = Tiw's day                      
- **Mercuryday**     | Wodnesdag=Woden's or Ödinn's day         
- **Jupiterday**     | Punresdag \- Thor's day or Thunder's day 
- **Venusday**       | Frigedag = Frige's day                   
+ **Marsday**        | Tiesdag - Tiw's day                      
+ **Mercuryday**     | Wodnesdag=Woden's / Ödinn's day         
+ **Jupiterday**     | Punresdag \- Thor's day /Thunder's day 
+ **Venusday**       | Frigedag - Frige's day                   
  **Saturnday**      | Saturnesdag                              
  **Sunday**         | Sunnandag                                
 
