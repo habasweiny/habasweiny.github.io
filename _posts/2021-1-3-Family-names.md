@@ -8,6 +8,7 @@ human mind. Lately, I've been interested in
 learning about the origins of names. I'll
 share a couple of names in our family and
 the stories behind them.
+
 Let's start with mum. When she was born
 her mother was happy that she now had a
 daughter-she previously only had sons.
@@ -18,7 +19,7 @@ Aqeeqah, my grandfather gave her the
 name Fatumazahra.
 
 For the first few years of her life, my
-grandmother spoke only Borana. So when
+grandmother spoke mostly Borana. So when
 her mother would send her to get their
 brother Abdullahi, she would stand at the
 edge of the playing fields and shout
@@ -28,8 +29,7 @@ that would follow him for the rest of his life.
 
 Some names in the family are geographical.
 Two of my nieces are named after European
-cities: Belfast(In Northern Ireland) and
-Berlin. Two cousins are named England. An
+cities: Belfast and Berlin. Two cousins are named England. An
 uncle is named after Somalia, the newly
 independent country he was born in.
 
@@ -41,12 +41,12 @@ facial features. Yet another one is named
 after the entire planet: Ardha(Earth).
 Probably to emphasize the fact that she
 was not born on Mars or one one of
-Jupiter's moons es.
+Jupiter's moons.
 
-*The Irish surname 'Milligan' sounds similar
+*_The Irish surname 'Milligan' sounds similar
 to my mum's name Milga. However it is
 closer to the Borana name Molu. Both
 Milligan and Molu mean 'bald'. The Somali
 name for bald is 'bidhaar', which itself
-closely resembles the English word.
+closely resembles the English word._
 
