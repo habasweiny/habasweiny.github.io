@@ -48,7 +48,7 @@ French and Spanish, the names remained unchanged.
 
 
 
-| PLANETARY WEEK | LATIN        | SPANISH   | FRENCH   |
+| WEEK | LATIN        | SPANISH   | FRENCH   |
 |----------------|--------------|-----------|----------|
 | Saturnday      | Dies Saturni | Sábado    | Samedi   |
 | Sunday         | Dies Solis   | Domingo   | Dimanche |
