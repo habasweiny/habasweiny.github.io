@@ -23,3 +23,5 @@ hydrogen was the raw material for every other
 element in the body. So it is safe to say that we
 are made of hydrogen. Which is 14 billion years
 old. Which is your actual age.
+
+© 2020 <a class="small" href="/about.html">HAMZA HAJI</a>
