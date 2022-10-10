@@ -67,6 +67,7 @@ their local gods.
 So, there you have it. Have a
 beautifully-named day.
 
+© 2022 HAMZA HAJI
 
 
  
