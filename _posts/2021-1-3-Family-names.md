@@ -46,7 +46,5 @@ Jupiter's moons.
 *_The Irish surname 'Milligan' sounds similar
 to my mum's name Milga. However it is
 closer to the Borana name Molu. Both
-Milligan and Molu mean 'bald'. The Somali
-name for bald is 'bidhaar', which itself
-closely resembles the English word._
+Milligan and Molu mean 'bald'._
 
