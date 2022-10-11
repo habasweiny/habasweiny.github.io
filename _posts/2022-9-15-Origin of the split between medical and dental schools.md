@@ -2,7 +2,7 @@
 author: Hamza
 layout: post
 ---
-We all know the script. Do an undergraduate degree in Medicine and Surgery first, then specialize later. With one glaring exception- Dentistry. Medical school and dental school are separate, though the tooth is part of the human body. Additionally, medical insurance and dental insurance are separated. So, why the split? 
+We all know the script. Do an undergraduate degree in Medicine and Surgery first, then specialize later. With one glaring exception- Dentistry. Medical school and dental school are separate, though the tooth is part of the human body. Ideally, a dentist should study medicine first then specialize in dentistry. So, why isn't this the case? 
 
 Dentistry has a long history, but we’ll start in the Middle Ages when barber-surgeons performed dental procedures. Barber-surgeons could trim your beard, fix your teeth and if you were unlucky enough, amputate your gangrenous hand or give you enemas. Instead of the upbeat music you listen to when getting a haircut nowadays, people in those times were treated to the screams of men in pain.
 
