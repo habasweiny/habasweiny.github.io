@@ -2,7 +2,7 @@
 author: Hamza
 layout: post
 ---
-In 1850, a group of women applied for admission to Harvard Medical School. The faculty at first agreed to admit them but was forced to withdraw the admission after protests from male students. About two decades later, the school would have an official admission policy on women but not in the direction you’d expect.
+In 1850, a group of women applied for admission to Harvard Medical School. The faculty at first agreed to admit them but was forced to withdraw the admission after protests from the all-male students. About two decades later, the school would have an official admission policy on women but not in the direction you’d expect.
 
 In the late 1860s, Harvard Medical School adopted an official No Women Policy. The reasons were as follows : 
 1. Students could fall in love which could lead to disastrous marriages. 
