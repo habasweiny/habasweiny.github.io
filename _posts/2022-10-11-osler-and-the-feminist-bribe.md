@@ -5,10 +5,10 @@ layout: post
 In 1850, a group of women applied for admission to Harvard Medical School. The faculty at first agreed to admit them but was forced to withdraw the admission after protests from male students. About two decades later, the school would have an official admission policy on women but not in the direction you’d expect.
 
 In the late 1860s, Harvard Medical School adopted an official No Women Policy. The reasons were as follows : 
-•	Students could fall in love which could lead to disastrous marriages. 
-•	Women could have trouble keeping up with the academic demands and slow down men’s progress.
-•	A woman’s future was so different from a man’s that educating them together was of no use. 
-•	Academic stress may become so severe that they could fall ill and destroy their chances of a good marriage. 
+1. Students could fall in love which could lead to disastrous marriages. 
+1. Women could have trouble keeping up with the academic demands and slow down men’s progress.
+1. A woman’s future was so different from a man’s that educating them together was of no use. 
+1. Academic stress may become so severe that they could fall ill and destroy their chances of a good marriage. 
 
 The reasons may seem incoherent now but they made absolute sense to the school board at the time. You can even make a few inferences about societal attitudes during those times. For example, the first rule above implies that society did not think that people should marry because of love. You could fall in love or you could marry. But you did these two things with two different people. Society was also very apprehensive about the effect of education of women to the institution of marriage.
 
