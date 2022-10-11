@@ -15,7 +15,9 @@ trying out a shirt mum had tailored in her
 stall. I remember walking into the stall with old,
 dirty and torn clothes but walking out with new outfits. 
 When I started primary school, she made
-my first school bag. But mum was meticulous in her
+my first school bag. 
+
+But mum was meticulous in her
 measurements. She made sure the clothes were
 never oversized. it was out of character for mum to 
 make those baggy Kaunda suits for us.
