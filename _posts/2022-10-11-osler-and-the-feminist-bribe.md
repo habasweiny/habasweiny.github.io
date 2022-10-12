@@ -16,4 +16,4 @@ The Johns Hopkins University School of Medicine, founded in 1893, would have fol
 
 Enter Dr William Osler, considered the father of modern medicine and a co-founder of Johns Hopkins University School of Medicine. Osler did not think that society had any use for female doctors at the time. He also suggested that single women could study medicine but had to drop out once married. But money was on the line. And money has a way of clearing up your mind very fast. So, he and the Johns Hopkins school board decided to accept the donation and admit women into the college.
 
-© 2022 <a class="small" href="/about.html">HAMZA HAJI</a>
+© 2022 <a class="small" href="/now.html">HAMZA HAJI</a>
