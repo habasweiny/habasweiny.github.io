@@ -10,4 +10,4 @@ The primacy of the clan is made even more obvious by the proliferation of flags 
 
 There is a high chance that a good number of people who currently speak the Somali language did not originally identify as ‘Somali’ and probably had their own languages. They just used it as a lingua franca and their original languages were lost to history.
 
-© 2022 <a class="small" href="/about.html">HAMZA HAJI</a>
+© 2022 <a class="small" href="/now.html">HAMZA HAJI</a>
