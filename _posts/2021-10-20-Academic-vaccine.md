@@ -27,4 +27,4 @@ by medical school. I highly
 recommend this vaccine to your future children.
 
 
-© 2021 <a class="small" href="/about.html">HAMZA HAJI</a>
+© 2021 <a class="small" href="/now.html">HAMZA HAJI</a>
