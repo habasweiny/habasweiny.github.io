@@ -39,4 +39,4 @@ Friendships are to be nurtured. They are not accidents. They don’t just happen
 maintained. Curated. Sustained. Like all things in life sometimes friendships fail despite all our
 efforts to salvage it. But that’s okay. Because we live to ‘friend’ another day.
 
-© 2021 <a class="small" href="/about.html">HAMZA HAJI</a>
+© 2021 <a class="small" href="/now.html">HAMZA HAJI</a>
