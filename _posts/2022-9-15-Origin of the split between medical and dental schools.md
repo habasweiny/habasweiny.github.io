@@ -13,7 +13,7 @@ The profession of dentistry continued as an apprenticeship with no formal traini
 They approached the College of Medicine at the University of Maryland but the physicians at the college rejected the proposal, terming dentistry as a ‘subject of little consequence’. This rejection, known as the ‘historical rebuff’, is when medicine formally rejected dentistry.
 
 After a few more rejections, Hayden and Harris decided to open an independent college of dental surgery with donations from colleagues and acquaintances. In 1840, the first dental college in the world was opened in Baltimore, thanks to these efforts. Many would follow suit around the world.
-A
-nd so, dentistry became a profession in its own right, independent of medicine and surgery. 
+
+And so, dentistry became a profession in its own right, independent of medicine and surgery. 
 
 © 2021 <a class="small" href="/about.html">HAMZA HAJI</a>
