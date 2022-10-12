@@ -37,4 +37,4 @@ travelling and I thought the police looked cool with
 their guns, camouflage and shit. 
 
 
-© 2022 <a class="small" href="/about.html">HAMZA HAJI</a>
+© 2022 <a class="small" href="/now.html">HAMZA HAJI</a>
