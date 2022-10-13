@@ -1,6 +1,4 @@
 - name: Home
   link: /
-- name: Musings
-  link: /musings.html
 - name: Now
   link: /now.html
