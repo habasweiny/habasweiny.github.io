@@ -17,8 +17,8 @@ defaults:
       path: ""
     values:
       layout: "default"
-title: Arabica
-description: Brewing ideas.
+title: HAMZA HAJI
+description: 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
