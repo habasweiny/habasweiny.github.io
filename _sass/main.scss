@@ -203,9 +203,9 @@ div.presentation_summary{
 		float:right
 	}
 }
-@media {
+@media(prefers-color-scheme:dark){
 	body{
-		background-color:url("../images/bkg.png");
+		background-color: url("../images/bkg.png");
 		color:#ccc
 	}
 	a{
