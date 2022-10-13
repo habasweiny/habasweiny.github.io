@@ -203,9 +203,9 @@ div.presentation_summary{
 		float:right
 	}
 }
-@media(prefers-color-scheme:dark){
+@media{
 	body{
-		background-color:#000;
+		background-color:url("../images/bkg.png");
 		color:#ccc
 	}
 	a{
@@ -264,7 +264,7 @@ header h1 {
   line-height: 1.5;
   margin: 0 auto;
   font-weight: bold;
-  font-family: Georgia,serif;
+  font-family: valkyrie_c4, Georgia, serif;
   color: #b5e853;
   text-shadow: 0 1px 1px rgba(0, 0, 0, 0.1),
                0 0 5px rgba(181, 232, 83, 0.1),
