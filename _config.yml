@@ -17,7 +17,7 @@ defaults:
       path: ""
     values:
       layout: "default"
-title: HAMZA HAJI
+title: Hamza Haji
 description: 
 plugins:
   - jekyll-feed
