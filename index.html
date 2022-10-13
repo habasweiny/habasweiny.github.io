@@ -22,10 +22,10 @@ I try to learn new things and write when I get free time. When I am
 <ul>
   {% for post in site.posts %}
     <li>
-      <h3>Osler And The Feminist Bribe</h3>
+      <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
       <div class="ex">{{ post.excerpt }}</div>
     </li>
-    {% endfor %}
+  {% endfor %}
 </ul>
   </body>
 </html>
