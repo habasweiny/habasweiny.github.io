@@ -49,4 +49,4 @@ closer to the Borana name Molu. Both
 Milligan and Molu mean 'bald'._
 
 
-© 2021 <a class="small" href="/now.html">HAMZA HAJI</a>
+© 2021 <a class="small" href="/">HAMZA HAJI</a>
