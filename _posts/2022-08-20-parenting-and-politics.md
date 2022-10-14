@@ -14,5 +14,6 @@ The lack of any political education at home.
 
 Maybe these things were just parents subconsciously replicating what they saw the government do in their childhood. 
 
-© 2022 <a class="small" href="/now.html">HAMZA HAJI</a>
+© 2022 <a class="small" href="/">HAMZA HAJI</a>
+
 
