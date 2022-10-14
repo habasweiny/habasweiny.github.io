@@ -24,4 +24,4 @@ element in the body. So it is safe to say that we
 are made of hydrogen. Which is 14 billion years
 old. Which is your actual age.
 
-© 2021 <a class="small" href="/now.html">HAMZA HAJI</a>
+© 2021 <a class="small" href="/">HAMZA HAJI</a>
