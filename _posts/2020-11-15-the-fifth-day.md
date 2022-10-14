@@ -85,7 +85,7 @@ their local gods.
 So, there you have it. Have a
 beautifully-named day.
 
-© 2020 <a class="small" href="/now.html">HAMZA HAJI</a>
+© 2020 <a class="small" href="/">HAMZA HAJI</a>
 
 
  
