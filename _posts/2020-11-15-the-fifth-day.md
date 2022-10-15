@@ -1,7 +1,7 @@
 ---
 author: hamza
 layout: post
-permalink: /Alhamisi
+permalink: /alhamisi
 ---
 One peculiarity of the Swahili
 language is that both Wednesday and Thursday mean the same thing but in
