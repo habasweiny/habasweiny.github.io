@@ -1,6 +1,7 @@
 ---
 author: hamza
 layout: post
+permalink: familynames
 ---
 I've always been fascinated by language. I
 think it's the greatest invention of the
