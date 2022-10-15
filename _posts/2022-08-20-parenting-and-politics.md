@@ -1,6 +1,7 @@
 ---
 layout: post
 author: hamza
+permalink: parenting
 ---
 I sometimes think about how growing up under authoritarian governments influences how parents raise their children. In Kenya, the two immediate previous generations grew up under such governments. Our parents grew up under the dictatorship of the ’70s and ’80s. Their parents grew up under a violently dying brutal colonial empire. 
 
