@@ -1,6 +1,7 @@
 ---
 author: Hamza
 layout: post
+permalink: osler
 ---
 In 1850, a group of women applied for admission to Harvard Medical School. The faculty at first agreed to admit them but was forced to withdraw the admission after protests from the all-male students. About two decades later, the school would have an official admission policy on women but not in the direction you’d expect.
 
