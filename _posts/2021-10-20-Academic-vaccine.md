@@ -1,6 +1,7 @@
 ---
 author: hamza
 layout: post
+permalink: vaccine
 ---
 In early 2003, Kenya had a new president in
 quarter a century. The whole country was
