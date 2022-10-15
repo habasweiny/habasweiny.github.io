@@ -1,6 +1,7 @@
 ---
 author: hamza
 layout: post
+permalink: identity
 ---
 Language and identity are two different entities. Speaking a language doesn’t automatically make you have the identity originally associated with that language. A lot of people speak English but do not identify as English/British. I suspect the same applies to African languages.
 
