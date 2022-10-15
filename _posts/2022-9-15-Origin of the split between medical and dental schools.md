@@ -1,6 +1,7 @@
 ---
 author: Hamza
 layout: post
+permalink: dentistry
 ---
 We all know the script. Do an undergraduate degree in Medicine and Surgery first, then specialize later. With one glaring exception- Dentistry. Medical school and dental school are separate, though the tooth is part of the human body. Ideally, a dentist should study medicine first then specialize in dentistry. So, why isn't this the case? 
 
