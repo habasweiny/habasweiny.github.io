@@ -1,6 +1,7 @@
 ---
 author: hamza
 layout: post
+permalink: age
 ---
 Next time someone asks how old you are,
 answer "14 billion years". It doesn't matter what
