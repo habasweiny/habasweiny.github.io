@@ -14,7 +14,7 @@ a tour exploring how the days of the week were named in various languages.
 We’ll start with Arabic. It seems
 that on a random day centuries ago a guy somewhere in the Middle East or Eastern
 Africa got bored of having nameless days and started counting them. He named
-the day he started counting yawmul ahad- meaning the first day. Yawul ahad is
+the day he started counting yawmul ahad- meaning the first day. Yawmul ahad is
 Sunday in Arabic. The next day he continued counting. He called it Yawmul
 Thanii or Al-ithnayn meaning the second day of the week. The third day he
 called it Yawmul Thaalith or Al-thulathaa. Fourth day became Yawmul Raabi3 or
