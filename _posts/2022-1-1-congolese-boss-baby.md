@@ -1,6 +1,7 @@
 ---
 author: hamza
 layout: post
+permalink: bossbaby
 ---
 There are a few questions one might ask about
 this photo of me and my siblings. I'll answer
