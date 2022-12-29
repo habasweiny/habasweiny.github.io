@@ -1,154 +1,179 @@
-body{
-	max-width:40em;
-	margin:0 auto;
-	padding:5px;
-	font-family:Georgia,serif;
-	font-size:20px;
-	line-height:30px;
-	background: #151515 url("../images/bkg.png") 0 0;
-	color:#000
+html {
+    line-height: 1.15;
+    -webkit-text-size-adjust: 100%;
 }
-h1,h2,h3,dt,small,.small {
-	font-family: Georgia, serif;
-	font-weight:normal;
-	font-style:normal
+
+body {
+    margin: 0;
 }
-span.url {
-	font-family:Georgia,serif;
+
+main {
+    display: block;
 }
-small,.small,footer,dl#tweetlist dt,figcaption{
-	font-size:0.8em;
-	color:#666
+
+h1 {
+    margin: 0.67em 0;
+    font-size: 2em;
 }
-h1,h2,h3,label{
-	line-height:1em
+
+hr {
+    overflow: visible;
+    box-sizing: content-box;
+    height: 0;
 }
-h1{
-	font-size:2em
+
+pre {
+    font-family: monospace;
+    font-size: 1em;
 }
-h2 a{
-	color:#000;
-	text-decoration: underline
+
+a {
+    background-color: transparent;
 }
-h2,
-h3 {
- margin-top:-0.5em
+
+abbr[title] {
+    border-bottom: none;
+    text-decoration: underline;
+    text-decoration: underline dotted;
 }
-h2 {
-  font-size: 1em;
-  font-style: italic;
+
+b,
+strong {
+    font-weight: bolder;
 }
-a{
-	text-decoration:none;
-	color:#20b;
-	overflow-wrap:break-word;
-	word-wrap:break-word
+
+code,
+kbd,
+samp {
+    font-family: monospace;
+    font-size: 1em;
 }
-a:visited{
-	color:#606
+
+small {
+    font-size: 80%;
 }
-a:hover{
-	text-decoration:underline
+
+sub,
+sup {
+    position: relative;
+    font-size: 75%;
+    line-height: 0;
+    vertical-align: baseline;
 }
-dt{
-	margin-top:2em;
-	font-size:1.2em
+
+sub {
+    bottom: -0.25em;
 }
-li,dd{
-	margin-bottom:1em
-}
-figure{
-	margin:0
-}
-blockquote{
-	margin:2em;
-	color:#444
+
+sup {
+    top: -0.5em;
 }
 
 img {
-	max-width:100%;
-	display:block;
-	height:auto;
+    border-style: none;
 }
 
-section{
-	margin-bottom:4em
+button,
+input,
+optgroup,
+select,
+textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: 100%;
+    line-height: 1.15;
 }
 
-@media screen and (max-width: 440px){
-	section#masthead h1{
-		font-size:2em
-	}
-	div.presentation_summary img{
-		display:block
-	}
-}
-@media screen and (min-width: 440px){
-	section#masthead h1{
-		font-size:3em
-	}
-	div.presentation_summary img{
-		float:right
-	}
-}
-@media(prefers-color-scheme:dark){
-	body{
-		background-color: url("../images/bkg.png");
-		color:#ccc
-	}
-	a{
-		color:#88f
-	}
-	a:visited{
-		color:#aaf
-	}
-	.response{
-		background-color:#444
-	}
-	h1,h1 a,h2,h2 a,h3,h3 a,section#masthead h1 a{
-		color:#080
-	}
+button,
+input {
+    overflow: visible;
 }
 
-header h1 {
-  font-size: 30px;
-  line-height: 1.5;
-  margin: 0 0 0 -40px;
-  font-weight: bold;
-  font-family: Georgia, serif;
-  color: #6a9fb5;
- text-align: left;
- }
-#a-title {
-  text-decoration: none;
-  text-align: center;
+button,
+select {
+    text-transform: none;
 }
 
-.navi {
-text-decoration: none;
-text-align: center;
+button,
+[type="button"],
+[type="reset"],
+[type="submit"] {
+    -webkit-appearance: button;
 }
 
-.navlink {
-
+button::-moz-focus-inner,
+[type="button"]::-moz-focus-inner,
+[type="reset"]::-moz-focus-inner,
+[type="submit"]::-moz-focus-inner {
+    padding: 0;
+    border-style: none;
 }
 
-table {
-  width: 100%;
-  margin: 0 0 20px 0;
-  color: grey;
+button:-moz-focusring,
+[type="button"]:-moz-focusring,
+[type="reset"]:-moz-focusring,
+[type="submit"]:-moz-focusring {
+    outline: 1px dotted ButtonText;
 }
 
-th {
-  text-align: left;
-  border-bottom: 1px dashed #b5e853;
-  padding: 5px 10px;
+fieldset {
+    padding: 0.35em 0.75em 0.625em;
 }
 
-td {
-  padding: 5px 10px;
-  font-size: 0.8em;
- color: #fff;
- line-height: 1;
+legend {
+    display: table;
+    box-sizing: border-box;
+    padding: 0;
+    max-width: 100%;
+    color: inherit;
+    white-space: normal;
 }
 
+progress {
+    vertical-align: baseline;
+}
+
+textarea {
+    overflow: auto;
+}
+
+[type="checkbox"],
+[type="radio"] {
+    box-sizing: border-box;
+    padding: 0;
+}
+
+[type="number"]::-webkit-inner-spin-button,
+[type="number"]::-webkit-outer-spin-button {
+    height: auto;
+}
+
+[type="search"] {
+    -webkit-appearance: textfield;
+    outline-offset: -2px;
+}
+
+[type="search"]::-webkit-search-decoration {
+    -webkit-appearance: none;
+}
+
+::-webkit-file-upload-button {
+    -webkit-appearance: button;
+    font: inherit;
+}
+
+details {
+    display: block;
+}
+
+summary {
+    display: list-item;
+}
+
+template {
+    display: none;
+}
+
+[hidden] {
+    display: none;
+}
